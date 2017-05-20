@@ -1,0 +1,43 @@
+body * { font-family: "SF Pro KR","SF Pro Text","SF Pro Icons","Apple Gothic","HY Gulim","MalgunGothic","HY Dotum","Lexi Gulim","Helvetica Neue","Helvetica","Arial",sans-serif; color: #333; }
+
+ul, ol { list-style-type: none; margin: 0; padding: 0; }
+
+nav.nav-top a { text-decoration: none; color: white; }
+
+nav.nav-top a:hover { opacity: 0.65; }
+
+.chap-bar a { text-decoration: none; }
+
+.chap-bar a:hover span.nav-chap-label { color: #0070c9; }
+
+.chap-bar a span.nav-chap-label { display: block; }
+
+.nav-chap-label { font-size: 11px; letter-spacing: 0.005em; font-weight: 400; }
+
+.reduced { font-size: 32px; line-height: 1.5625; font-weight: 400; letter-spacing: .011em; margin: 0; }
+
+.section-headline { font-size: 40px; line-height: 1.05; font-weight: 500; letter-spacing: 0.008em; margin: 0; margin-top: 8px; }
+
+.elevated { font-size: 52px; line-height: 1.1; font-weight: 600; letter-spacing: 0.004em; margin: 0; margin-top: 15px; }
+
+.shopstrip-headline { font-size: 16px; line-height: 1.26; font-weight: 500; margin: 9px 0; }
+
+.shopstrip-copy { font-size: 12px; line-height: 1.28; font-weight: 400; margin: 0; margin-bottom: 8px; }
+
+.shopstrip-link { font-size: 12px; line-height: 1.28; font-weight: 400; margin: 0; }
+
+.section-headline-education { font-size: 34px; color: white; font-weight: 500; line-height: 1.08; }
+
+.copy-education { color: white; font-weight: 400; margin-top: 24px; margin-bottom: 4px; font-size: 14px; }
+
+.intro-education { margin-top: 22px; }
+
+.intro-education a { font-size: 14px; }
+
+.nav-bottom-column .column-section-title { font-size: 10px; margin: 0; margin-bottom: 8px; }
+
+.nav-bottom-column li.column-section { font-size: 12px; margin-bottom: 8px; }
+
+.nav-bottom-column li.column-section a { text-decoration: none; color: #555; }
+
+.nav-bottom-column li.column-section a:hover { text-decoration: underline; }
